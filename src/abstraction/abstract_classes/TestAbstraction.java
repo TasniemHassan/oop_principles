@@ -40,6 +40,7 @@ Find and print how many phones are convertible -> 2
         }
         System.out.println(count + " phones are convertible");
         System.out.println("The most expensive phone is = " + mostExpensive.getClass().getSimpleName());
+        System.out.println("The color of the most expensive phone is = " + mostExpensive.color );
 
         System.out.println(IPhone.OS);
         System.out.println(Samsung.OS);
