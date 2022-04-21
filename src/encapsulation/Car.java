@@ -1,6 +1,6 @@
 package encapsulation;
 
-public class Car {
+public class Car{
 
     //instance variables
     public String make;
